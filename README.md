@@ -5,3 +5,5 @@
   
   
  ●The basic goal is to navigate a snake and eat as many apples as possible without touching the walls or the snake’s body.
+ 
+ link:https://gameshungrysnake.netlify.app/
